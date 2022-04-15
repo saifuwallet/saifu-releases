@@ -5,6 +5,9 @@ You'll find the latest Saifu releases in this repository. Head over to [Releases
 - `nightly-x-x`: Automatic daily releases off the latest development tip
 - `1.1.0`: Stable release 
 
+## How to install non-webstore builds
+
+Follow [this guide](https://github.com/saifuwallet/docs/blob/master/How%20to%20install%20non-webstore%20versions%20of%20Saifu.md)
 
 ## Released versions
 
